@@ -138,6 +138,5 @@ ehthumbs.db
 Thumbs.db
 
 # Local configuration files
-config.json
 settings.json
 *.local

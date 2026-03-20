@@ -1,0 +1,27 @@
+{
+  "bigcommerce": {
+    "api_base_url": "https://api.bigcommerce.com/stores",
+    "api_version": "v3",
+    "scopes": [
+      "content:read-only",
+      "catalog:read-only",
+      "carts:modify",
+      "checkouts:modify"
+    ]
+  },
+  "webflow": {
+    "api_base_url": "https://api.webflow.com",
+    "cms_collection_name": "products"
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 5000,
+    "debug": true
+  },
+  "features": {
+    "sync_products": true,
+    "real_time_inventory": false,
+    "customer_accounts": false,
+    "analytics": false
+  }
+}

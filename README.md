@@ -3,6 +3,9 @@
 ## Overview
 This plugin enables seamless integration between BigCommerce and Webflow, allowing merchants to display their BigCommerce products in Webflow sites while maintaining full e-commerce functionality through BigCommerce's robust platform.
 
+## GitHub Repository
+Code is automatically synced to GitHub: https://github.com/billh-ch/webflow-bigcommerce-integration
+
 ## Features
 - Display BigCommerce products in Webflow
 - Shopping cart functionality
